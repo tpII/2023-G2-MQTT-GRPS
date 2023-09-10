@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 import logging
 
 # Configura el logging
-logging.basicConfig(filename='/app/logs/my_app.log', level=logging.INFO)
+logging.basicConfig(filename='/app/logs/app.log', level=logging.INFO)
 
 # Callback cuando se conecta al broker
 def on_connect(client, userdata, flags, rc):
