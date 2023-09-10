@@ -25,3 +25,4 @@ docker exec -it mosquitto mosquitto_pub -u admin --pw admin -t /test/message -m 
 ## DB
 [Referencia InfluxDB](https://www.influxdata.com/blog/running-influxdb-2-0-and-telegraf-using-docker/)
 [Configurar Telegraf para suscribirse a un topico MQTT](https://itobey.dev/connecting-telegraf-to-mosquitto-with-influxdb/)
+[Parseo de topicos y configuración de Telegraf](https://www.influxdata.com/integration/mqtt-telegraf-consumer/)
