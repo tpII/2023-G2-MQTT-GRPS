@@ -8,9 +8,9 @@
   - Capacitor 1000uF
   - Conexión modulo SIM800L con todos sus componentes
   -  [Test conexión SIM800L](./imagenes/conexion-sim800l.jpeg)
+  -  [Diagrama de conexión](./imagenes/diagrama-sim800l.jpeg)
         - [x] Conexión a red celular
         - [x] Envío de SMS
-        - [x] Recepción de SMS
         - [x] Pegada GET endpoint dummy 
 - 7/9 - Hernan Kleinubing:
   - Creación de repo github
@@ -20,4 +20,6 @@
   - Agregados script de startup y shutdown
 - 10/9 - Hernan Kleinubing:
   - Agregado de documentación en README.md sobre backend.
+- 13/9 - Hernan Kleinubing:
+  - Push código conexión modulo GPRS usando arduino
 
