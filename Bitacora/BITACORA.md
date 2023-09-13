@@ -1,0 +1,23 @@
+# Bitacora
+- 2/9 - Hernan Kleinubing: 
+  - Conseguir modulo SIM800L
+- 4/9 - Hernan Kleinubing:
+  - Chip Tuenti 
+  - Fuente Step Down para alimentación del modulo
+- 6/9 - Hernan Kleinubing:
+  - Capacitor 1000uF
+  - Conexión modulo SIM800L con todos sus componentes
+  -  [Test conexión SIM800L](./imagenes/conexion-sim800l.jpeg)
+        - [x] Conexión a red celular
+        - [x] Envío de SMS
+        - [x] Recepción de SMS
+        - [x] Pegada GET endpoint dummy 
+- 7/9 - Hernan Kleinubing:
+  - Creación de repo github
+- 9/9 - Hernan Kleinubing:
+  - Desarrollo docker-compose con Broker MQTT moskito
+  - Desarrollo docker-compose con Backend python y suscripción a Broker MQTT moskito
+  - Agregados script de startup y shutdown
+- 10/9 - Hernan Kleinubing:
+  - Agregado de documentación en README.md sobre backend.
+
