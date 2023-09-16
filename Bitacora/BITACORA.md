@@ -22,4 +22,7 @@
   - Agregado de documentación en README.md sobre backend.
 - 13/9 - Hernan Kleinubing:
   - Push código conexión modulo GPRS usando arduino
-
+- 16/9 - Victor Duarte, Lucas Dehan:
+  - Desarrollo de codigo Arduino (Proyecto.ino, comentado respectivamente):
+    - Integracion de DHT11, GPRS, MQTT y JSON   
+    - Pin 5 utilizado para pin DATA del DHT11   
