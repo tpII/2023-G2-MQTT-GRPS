@@ -26,3 +26,11 @@
   - Desarrollo de codigo Arduino (Proyecto.ino, comentado respectivamente):
     - Integracion de DHT11, GPRS, MQTT y JSON   
     - Pin 5 utilizado para pin DATA del DHT11   
+- 16/9 - Constantino Palacio:
+  - Armado de un shield Arduino para la ubicación de los componentes de HW:
+    - Diagramación de ubicación de componentes
+    - Conexiones básicas para alimentación de 5V y módulo GPRS
+    - Conexionado básico para sensor DHT11
+- 17/9 - Constantino Palacio:
+  - Configuración y prueba (en C) de un broker MOSQUITTO en un server físico
+  - Prueba exitosa de suscripción y envío/recepción de datos entre "dos clientes" (dos terminales dentro de una misma PC) y el broker MQTT
