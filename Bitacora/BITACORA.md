@@ -34,3 +34,5 @@
 - 17/9 - Constantino Palacio:
   - Configuración y prueba (en C) de un broker MOSQUITTO en un server físico
   - Prueba exitosa de suscripción y envío/recepción de datos entre "dos clientes" (dos terminales dentro de una misma PC) y el broker MQTT
+- 18/9 - Constantino Palacio:
+  - Prueba exitosa de un programa en Python que envía contenido al broker EMQX
