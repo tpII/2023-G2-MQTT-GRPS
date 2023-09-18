@@ -36,3 +36,6 @@
   - Prueba exitosa de suscripción y envío/recepción de datos entre "dos clientes" (dos terminales dentro de una misma PC) y el broker MQTT
 - 18/9 - Constantino Palacio:
   - Prueba exitosa de un programa en Python que envía contenido al broker EMQX
+  - Configuración de un dashboard Grafana para recepción y visualización de datos de EMQX (provisorio, los datos reales se obtendrían de consultas a la BD)
+  - Creación de una BD relacional en MySQL: tabla "mediciones" para datos del sensor DHT11
+  - Prueba sin éxito de un programa en C/Python para establecer una conexión a la BD en MySQL

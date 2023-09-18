@@ -2,6 +2,8 @@
 # prueba de emqx con python
 
 import random
+import datetime
+import json
 import time
 
 from paho.mqtt import client as mqtt_client
@@ -30,7 +32,10 @@ def publish(client):
 		properties = Properties(PacketTypes.PUBLISH)
 		properties.MessageExpiryInterval = 30 				# en segundos
 
-		msg="Mensajes: "+str(msg_count)
+		#
+		# paso los datos a formato json: columnas fecha/hora de medicion, temperatura
+		#
+		msg=json.dumps({"fh_medicion":str(datetime.datetime.now()),"temperatura":str(random.randint(-20,60))},separators=(',',':'))
 		result = client.publish(topic,msg,0,properties=properties)
 
 		status = result[0]
@@ -39,7 +44,7 @@ def publish(client):
 		else:
 			print("Envio de mensaje a topico "+topic+" fallo.")
 		msg_count += 1
-		if msg_count > 5:
+		if msg_count > 20:	# generar 20 datos
 			break
 
 def run():
