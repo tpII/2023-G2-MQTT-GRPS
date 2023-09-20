@@ -39,3 +39,5 @@
   - Configuración de un dashboard Grafana para recepción y visualización de datos de EMQX (provisorio, los datos reales se obtendrían de consultas a la BD)
   - Creación de una BD relacional en MySQL: tabla "mediciones" para datos del sensor DHT11
   - Prueba sin éxito de un programa en C/Python para establecer una conexión a la BD en MySQL
+- 20/9 - Constantino Palacio:
+  - Prueba exitosa de dashboard Grafana para recibir y graficar los datos de temperatura del broker MQTT

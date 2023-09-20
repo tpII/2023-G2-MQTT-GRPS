@@ -44,7 +44,7 @@ def publish(client):
 		else:
 			print("Envio de mensaje a topico "+topic+" fallo.")
 		msg_count += 1
-		if msg_count > 20:	# generar 20 datos
+		if msg_count > 100:	# generar 100 datos
 			break
 
 def run():
