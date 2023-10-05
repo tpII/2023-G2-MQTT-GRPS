@@ -1,4 +1,4 @@
-En este directorio está la configuración del servidor remoto para MOSQUITTO.
+Archivo de configuración de MOSQUITTO para server Ubuntu 22.
 
 *** Instrucciones de instalación del broker ***
 

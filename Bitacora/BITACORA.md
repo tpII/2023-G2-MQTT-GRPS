@@ -20,6 +20,8 @@
   - Agregados script de startup y shutdown
 - 10/9 - Hernan Kleinubing:
   - Agregado de documentación en README.md sobre backend.
+- 11/9 - Constantino Palacio:
+  - Configuración de un equipo (CPU Intel Core 2 Duo + 4GiB RAM) con sistema Ubuntu Server 22 para los roles de servidor de base de datos MySQL y broker MQTT (se instalaron y configuraron servicios Mosquitto y EMQX)
 - 13/9 - Hernan Kleinubing:
   - Push código conexión modulo GPRS usando arduino
 - 16/9 - Victor Duarte, Lucas Dehan:
