@@ -20,6 +20,30 @@
   - Agregados script de startup y shutdown
 - 10/9 - Hernan Kleinubing:
   - Agregado de documentación en README.md sobre backend.
+- 11/9 - Constantino Palacio:
+  - Configuración de un equipo (CPU Intel Core 2 Duo + 4GiB RAM) con sistema Ubuntu Server 22 para los roles de servidor de base de datos MySQL y broker MQTT (se instalaron y configuraron servicios Mosquitto y EMQX)
 - 13/9 - Hernan Kleinubing:
   - Push código conexión modulo GPRS usando arduino
-
+- 16/9 - Victor Duarte, Lucas Dehan:
+  - Desarrollo de codigo Arduino (Proyecto.ino, comentado respectivamente):
+    - Integracion de DHT11, GPRS, MQTT y JSON   
+    - Pin 5 utilizado para pin DATA del DHT11   
+- 16/9 - Constantino Palacio:
+  - Armado de un shield Arduino para la ubicación de los componentes de HW:
+    - Diagramación de ubicación de componentes
+    - Conexiones básicas para alimentación de 5V y módulo GPRS
+    - Conexionado básico para sensor DHT11
+- 17/9 - Constantino Palacio:
+  - Configuración y prueba (en C) de un broker MOSQUITTO en un server físico
+  - Prueba exitosa de suscripción y envío/recepción de datos entre "dos clientes" (dos terminales dentro de una misma PC) y el broker MQTT
+- 18/9 - Constantino Palacio:
+  - Prueba exitosa de un programa en Python que envía contenido al broker EMQX
+  - Configuración de un dashboard Grafana para recepción y visualización de datos de EMQX (provisorio, los datos reales se obtendrían de consultas a la BD)
+  - Creación de una BD relacional en MySQL: tabla "mediciones" para datos del sensor DHT11
+  - Prueba sin éxito de un programa en C/Python para establecer una conexión a la BD en MySQL
+- 19/9 - Victor Duarte:
+  - Actualizacion del proyecto de arduino para adecuarse al modulo recibido (SIM908)
+  - Agregado de datos de la APN de la red Tuenti
+  - Agregado de println provisionales para futuras pruebas
+- 20/9 - Constantino Palacio:
+  - Prueba exitosa de dashboard Grafana para recibir y graficar los datos de temperatura del broker MQTT
