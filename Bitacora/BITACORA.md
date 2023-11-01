@@ -47,3 +47,5 @@
   - Agregado de println provisionales para futuras pruebas
 - 20/9 - Constantino Palacio:
   - Prueba exitosa de dashboard Grafana para recibir y graficar los datos de temperatura del broker MQTT
+- 1/11 - Constantino Palacio:
+  - Prueba exitosa de un programa en C para conexión y manejo de una BD en MySQL
