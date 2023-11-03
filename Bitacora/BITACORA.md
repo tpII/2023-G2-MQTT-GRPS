@@ -66,3 +66,5 @@
   - Prueba exitosa de dashboard Grafana para recibir y graficar los datos de temperatura del broker MQTT
 - 1/11 - Constantino Palacio:
   - Prueba exitosa de un programa en C para conexión y manejo de una BD en MySQL
+- 2/11 - Consantino Palacio, Hernan Kleinubing, Victor Duarte:
+  - Se corrigio el problema de la comunicacion con el SIM908C. La razon del problema era una combinacion de falta de una conexion GND entre el SIM908C y el Arduino junto con la necesidad de reiniciar el modulo por medio de un pulsador incluido en la placa. Se realizaron pruebas exitosas de comunicacion utilizando GPRS.   
