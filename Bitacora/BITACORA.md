@@ -67,4 +67,12 @@
 - 1/11 - Constantino Palacio:
   - Prueba exitosa de un programa en C para conexión y manejo de una BD en MySQL
 - 2/11 - Consantino Palacio, Hernan Kleinubing, Victor Duarte:
-  - Se corrigio el problema de la comunicacion con el SIM908C. La razon del problema era una combinacion de falta de una conexion GND entre el SIM908C y el Arduino junto con la necesidad de reiniciar el modulo por medio de un pulsador incluido en la placa. Se realizaron pruebas exitosas de comunicacion utilizando GPRS.   
+  - Se corrigio el problema de la comunicacion con el SIM908C. La razon del problema era una combinacion de falta de una conexion GND entre el SIM908C y el Arduino junto con la necesidad de reiniciar el modulo por medio de un pulsador incluido en la placa. Se realizaron pruebas exitosas de comunicacion utilizando GPRS.
+- 3/11 - Consantino Palacio, Lucas Dehan, Victor Duarte:
+  - Se intenta avanzar sobre el codigo Arduino, pero sin exito debido a la falta de cobertura en la ubicacion.
+- 4/11 - Consantino Palacio, Lucas Dehan, Victor Duarte:
+  - Prueba exitosa de conexion entre el Arduino hacia el broker MQTT. Se hallo que el puerto con el que se realiza la conexion es el 1883 en vez del 8083 que se asumio al principio.
+- 6/11 - Consantino Palacio, Lucas Dehan, Victor Duarte:
+  - Prueba exitosa de envio de mensajes JSON al broker MQTT.
+- 7/11 - Victor Duarte:
+  - Prueba de enviar sensados de temperatura al broker MQTT.      
