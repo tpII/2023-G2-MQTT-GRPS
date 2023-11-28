@@ -45,6 +45,8 @@
   - Actualizacion del proyecto de arduino para adecuarse al modulo recibido (SIM908)
   - Agregado de datos de la APN de la red Tuenti
   - Agregado de println provisionales para futuras pruebas
+- 20/9 - Constantino Palacio:
+  - Prueba exitosa de dashboard Grafana para recibir y graficar los datos de temperatura del broker MQTT
 - 18/10 - Victor Duarte:
   - Obtencion de una fuente de alimentacion de 9V 2A para el modulo SIM908C
 - 19/10 - Victor Duarte:
@@ -62,8 +64,6 @@
         - " Try using File -> Examples -> TinyGSM -> tools -> AT_Debug to find correct configuration"
     - A partir de lo leido en el informe "Proyecto N°20: “Control en transporte y despacho de combustible”" se realizan pruebas utilizando la libreria utilizada para la administracion del SIM908C, gsmshield (https://github.com/per/gsmshield).
       - Prueba con https://github.com/per/gsmshield/blob/master/examples/GSM_GPRSLibrary_AT/GSM_GPRSLibrary_AT.ino: El resultado es la salida en terminal: "ERROR: SIM900 doesn't answer. Check power and serial pins in GSM.cpp"
-- 20/9 - Constantino Palacio:
-  - Prueba exitosa de dashboard Grafana para recibir y graficar los datos de temperatura del broker MQTT
 - 1/11 - Constantino Palacio:
   - Prueba exitosa de un programa en C para conexión y manejo de una BD en MySQL
 - 2/11 - Consantino Palacio, Hernan Kleinubing, Victor Duarte:
