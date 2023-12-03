@@ -605,3 +605,8 @@ INFO:root:Registro insertado con éxito.
 INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
 INFO:root:Registro insertado con éxito.
 INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:werkzeug: * Detected change in '/home/HernanKleinubing/Documentos/Facultad/Taller2/backend/backend.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 540-937-761
+INFO:root:Conectado con código de resultado 0
