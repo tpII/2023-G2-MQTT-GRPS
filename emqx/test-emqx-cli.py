@@ -12,7 +12,7 @@ from paho.mqtt.packettypes import PacketTypes
 
 broker = '163.10.3.73'
 port = 1883
-topic = 'emqx/test'
+topic = 'Arduino/temp'
 client_id = 'netbook'
 username = 'taller2g2'
 password = 'taller2g2'

@@ -7,7 +7,7 @@ int main() {
 	MYSQL_ROW row;
 
 	char *server = "163.10.3.73";
-	int port = 33060;
+	int port = 3306;
 	char *user = "taller2g2";
 	char *password = "taller2g2";
 	char *database = "taller2";

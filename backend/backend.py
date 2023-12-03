@@ -3,6 +3,11 @@ import logging
 import json
 import mysql.connector
 from mysql.connector import Error
+from flask import Flask, jsonify
+from flask_cors import CORS
+app = Flask(__name__)
+CORS(app)
+
 # Configura el logging
 logging.basicConfig(filename='./logs/app.log', level=logging.INFO)
 
@@ -16,68 +21,58 @@ config = {
     'raise_on_warnings': True
 }
 
+# Función para insertar datos en la base de datos
+def insertar_temperatura(temp):
+    try:
+        conn = mysql.connector.connect(**config)
+        cursor = conn.cursor()
+        insert_query = "INSERT INTO medidas (fecha_hora, temp) VALUES (NOW(), %s)"
+        cursor.execute(insert_query, (temp,))
+        conn.commit()
+        logging.info("Registro insertado con éxito.")
+    except Error as e:
+        logging.error(f"Error al insertar datos en MySQL: {e}")
+    finally:
+        if conn.is_connected():
+            cursor.close()
+            conn.close()
+
 # Callback cuando se conecta al broker
 def on_connect(client, userdata, flags, rc):
     logging.info(f"Conectado con código de resultado {rc}")
-    # Nos suscribimos al tópico (en este caso "test/topic")
     client.subscribe("Arduino/temp")
-
 
 # Callback cuando se recibe un mensaje del tópico
 def on_message(client, userdata, msg):
     data = json.loads(msg.payload.decode())
-    try:
-        conn = mysql.connector.connect(**config)
-        # Crear un nuevo cursor
-        cursor = conn.cursor()
+    temperatura = data["temp"]
+    insertar_temperatura(temperatura)
+    logging.info(f"Mensaje recibido: {temperatura} en el tópico {msg.topic}")
 
-        # Comando SQL para insertar un nuevo registro
-        insert_query = """
-        INSERT INTO medidas (fecha_hora, temp) VALUES (NOW(), %s)
-        """
-
-        # Datos que quieres insertar
-        # Asegúrate de que la fecha y hora estén en el formato correcto que tu base de datos espera
-        # Por ejemplo, podría ser un string en formato 'AAAA-MM-DD HH:MM:SS' para fecha y hora
-        datos = (data["temp"],)
-
-        # Ejecutar el comando SQL
-        cursor.execute(insert_query, datos)
-
-        # Hacer commit de la transacción
-        conn.commit()
-
-        print("Registro insertado con éxito.")
-    except Error as e:
-        print(f"Error al insertar datos en MySQL: {e}")
-    finally:
-    # Cerrar el cursor y la conexión
-        if conn.is_connected():
-            cursor.close()
-            conn.close()
-            print("La conexión a MySQL ha sido cerrada.")
-
-    logging.info(f"Mensaje recibido: {data['temp']} en el tópico {msg.topic}")
-    
-
-
-logging.info("test")
 client = mqtt.Client()
 client.on_connect = on_connect
 client.on_message = on_message
-
-logging.info("conectando")
 client.username_pw_set("taller2g2", "taller2g2")
-# Establecer la conexión
-try:
-    conn = mysql.connector.connect(**config)
-    print("Conexión exitosa a la base de datos.")
-except mysql.connector.Error as e:
-    print(f"Error al conectar a MySQL: {e}")
-# Conexión al broker
-
 client.connect("163.10.3.73", 1883, 60)
-logging.info("Conectado")
 
-# Loop para mantener el cliente activo y escuchando mensajes
-client.loop_forever()
+# Endpoint para obtener las temperaturas
+@app.route('/temperaturas', methods=['GET'])
+def obtener_temperaturas():
+    try:
+        conn = mysql.connector.connect(**config)
+        cursor = conn.cursor()
+        cursor.execute("SELECT fecha_hora, temp FROM medidas ORDER BY fecha_hora DESC")
+        rows = cursor.fetchall()
+        columnas = cursor.column_names
+        resultados = [dict(zip(columnas, row)) for row in rows]
+        return jsonify(resultados)
+    except Error as e:
+        return jsonify({"error": str(e)}), 500
+    finally:
+        if conn.is_connected():
+            cursor.close()
+            conn.close()
+
+if __name__ == '__main__':
+    client.loop_start()
+    app.run(debug=True, port=5000)

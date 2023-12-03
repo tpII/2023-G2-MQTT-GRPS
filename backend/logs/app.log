@@ -1,0 +1,607 @@
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:17:53] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:18:01] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:31:22] "GET /temperaturas HTTP/1.1" 200 -
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:32:07] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:32:12] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:32:15] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:32:25] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:32:48] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:32:55] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:33:02] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:33:18] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:33:23] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:33:48] "GET /temperaturas HTTP/1.1" 200 -
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:35:07] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:35:39] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:35:56] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:36:12] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:36:26] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:36:34] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:36:40] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:39:48] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:39:55] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:40:55] "GET /temperaturas HTTP/1.1" 200 -
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 24 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 24 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 35 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 35 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 32 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 32 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 30 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 19 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 19 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 19 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 19 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 19 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 19 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 191 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 191 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 191 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 191 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 100 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 100 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 1 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 1 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 20 en el tópico Arduino/temp
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:42:36] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:43:21] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:43:26] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:43:35] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:46:47] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:47:16] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:47:44] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:48:03] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:48:15] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:48:16] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:48:27] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:48:36] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:48:45] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:48:56] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:49:38] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:49:49] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:50:03] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:50:20] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:50:27] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:50:31] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:50:40] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:55:05] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:55:18] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:55:33] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:58:32] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 19:59:32] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:00:20] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:01:21] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:01:48] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:02:25] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:02:53] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:03:02] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:03:52] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:04:02] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 20:04:26] "GET /temperaturas HTTP/1.1" 200 -
+INFO:root:Conectado con código de resultado 0
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:root:Conectado con código de resultado 0
+INFO:werkzeug: * Debugger PIN: 540-937-761
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: caching_sha2_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 13:44:06] "GET /temperaturas HTTP/1.1" 200 -
+INFO:root:Conectado con código de resultado 0
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 540-937-761
+INFO:root:Conectado con código de resultado 0
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: caching_sha2_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 13:44:51] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/HernanKleinubing/Documentos/Facultad/Taller2/backend/backend.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 540-937-761
+INFO:root:Conectado con código de resultado 0
+INFO:root:Conectado con código de resultado 0
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 540-937-761
+INFO:root:Conectado con código de resultado 0
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: caching_sha2_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 13:45:31] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 14:54:06] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 14:54:23] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 14:57:42] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 14:58:29] "GET /temperaturas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Dec/2023 15:07:18] "GET /temperaturas HTTP/1.1" 200 -
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: caching_sha2_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+ERROR:root:Error al insertar datos en MySQL: 1265 (01000): Data truncated for column 'temp' at row 1
+ERROR:root:Error al insertar datos en MySQL: 1265 (01000): Data truncated for column 'temp' at row 1
+INFO:root:Mensaje recibido: error en el tópico Arduino/temp
+INFO:root:Mensaje recibido: error en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 21 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 21 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 26 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 25 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 23 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp
+INFO:root:Registro insertado con éxito.
+INFO:root:Mensaje recibido: 22 en el tópico Arduino/temp

@@ -5,25 +5,14 @@ import mqtt from 'mqtt'
 
 export const QosOption = createContext([])
 // https://github.com/mqttjs/MQTT.js#qos
-const qosOption = [
-  {
-    label: '0',
-    value: 0,
-  },
-  {
-    label: '1',
-    value: 1,
-  },
-  {
-    label: '2',
-    value: 2,
-  },
-]
+
 
 const HookMqtt = () => {
   const [client, setClient] = useState(null)
+  // eslint-disable-next-line no-unused-vars
   const [isSubed, setIsSub] = useState(false)
   const [payload, setPayload] = useState({})
+  // eslint-disable-next-line
   const [connectStatus, setConnectStatus] = useState('Connect')
 //Me conecto al broker
   useEffect(() => {
@@ -77,6 +66,7 @@ const HookMqtt = () => {
 
   // publish message
   // https://github.com/mqttjs/MQTT.js#mqttclientpublishtopic-message-options-callback
+  // eslint-disable-next-line
   const mqttPublish = (context) => {
     if (client) {
       // topic, QoS & payload for publishing message
@@ -96,10 +86,8 @@ const HookMqtt = () => {
       qos: 0,
       }
     if (client) {
-      // topic & QoS for MQTT subscribing
       const { topic, qos } = subscription
-      // subscribe topic
-      // https://github.com/mqttjs/MQTT.js#mqttclientsubscribetopictopic-arraytopic-object-options-callback
+
       client.subscribe(topic, { qos }, (error) => {
         if (error) {
           console.log('Subscribe to topics error', error)
@@ -111,8 +99,6 @@ const HookMqtt = () => {
     }
   },[client])
 
-  // unsubscribe topic
-  // https://github.com/mqttjs/MQTT.js#mqttclientunsubscribetopictopic-array-options-callback
   const mqttUnSub = (subscription) => {
     if (client) {
       const { topic, qos } = subscription
