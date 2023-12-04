@@ -1,7 +1,0 @@
-Como compilar y ejecutar los programas de prueba
-
-Compilación:
-$ gcc fuente.c -o ejecutable -lmosquitto
-
-Ejecución:
-$ ./ejecutable

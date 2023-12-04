@@ -1,0 +1,8 @@
+INFO:root:test
+INFO:root:test
+INFO:root:test
+INFO:root:conectando
+INFO:root:Conectado con código de resultado 0
+INFO:root:Mensaje recibido: Hello World! en el tópico test/topic
+INFO:root:Mensaje recibido: test!!!!! en el tópico test/topic
+INFO:root:Conectado con código de resultado 0
