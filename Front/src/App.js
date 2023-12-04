@@ -1,6 +1,6 @@
 import React from 'react'
 import HookMqtt from './components/Hook/'
-import TemperaturesChart from './components/Grafico'
+import TemperaturesChart from './components/Hook/Grafico'
 // Hook or Class
 // import ClassMqtt from './components/Class/'
 import './App.css'

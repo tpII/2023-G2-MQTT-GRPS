@@ -16,7 +16,6 @@ const TemperaturesChart = () => {
       }));
       setChartData(formattedData);
     } catch (error) {
-      console.log("test")
       console.error('Error al obtener los datos de temperatura', error);
     }
   };
