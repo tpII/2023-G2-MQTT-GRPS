@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { LineChart, Line, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 const TemperaturesChart = () => {
   const [chartData, setChartData] = useState([]);
@@ -19,13 +19,7 @@ const TemperaturesChart = () => {
       console.error('Error al obtener los datos de temperatura', error);
     }
   };
-  const CustomizedLabel = ({ x, y, stroke, value, index, data }) => {
-    return (
-      <text x={x} y={y-10} dy={-4} fill={stroke} fontSize={10} textAnchor="middle">
-        {`${data[index].temperatura}°C - ${data[index].fecha}`}
-      </text>
-    );
-  };
+  
   useEffect(() => {
     fetchTemperatures();
   }, []);
